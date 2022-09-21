@@ -1,1 +1,1 @@
-Hello, I'm Michael Ye. I am currently a Computer Science student at UC San Diego.
+This Github contains some projects I've been working on.
